@@ -2,8 +2,8 @@
 
 Here are the reading notes for all of the Code Fellows for the Cyber Security Course, as well as all of the descriptions of what was covered in the course
 
-# Ops 102: Intro to Computer Operations
-## Topics and Outcomes:
+# [Ops 102: Intro to Computer Operations Reading Notes](https://github.com/Joegutmann/102.reading.notes/wiki)
+## Topics and Outcomes of the course:
 
 - How to leverage AI tools
 - Computer hardware components and interaction
@@ -12,8 +12,8 @@ Here are the reading notes for all of the Code Fellows for the Cyber Security Co
 - Software application installation
 - Virtual machine operations
 
-# Ops 201: Foundations of Computer Operations
-## Topics and Outcomes:
+# [Ops 201: Foundations of Computer Operations](https://github.com/Joegutmann/201.Reading.notes/wiki)
+## Topics and Outcomes of the course:
   
 - CompTIA ITF+ Certification
 - Use AI-based tools to accelerate learning and problem-solving
@@ -33,8 +33,8 @@ Here are the reading notes for all of the Code Fellows for the Cyber Security Co
 - Practice using Linux and Windows terminal commands
 - Perform basic GitHub operations
 
-# Ops 301: Networking and Systems Administration  
-## Topics and outcomes:
+# [Ops 301: Networking and Systems Administration](https://github.com/Joegutmann/301.Reading.notes/wiki)  
+## Topics and Outcomes of the course:
 
 - Use AI-based tools to accelerate learning and problem-solving
 - Apply lightweight Agile project management methodologies
@@ -50,8 +50,8 @@ Here are the reading notes for all of the Code Fellows for the Cyber Security Co
 - Oversee patch management of Windows endpoints
 - Be prepared for an Ops 401: Cybersecurity Engineering course
 
-# Ops 400: Advanced Cybersecurity Courses
-## Topics and outcomes:
+# [Ops 401: Advanced Cybersecurity Courses](https://github.com/Joegutmann/401.Reading.notes/wiki)
+## Topics and Outcomes of the course:
 
 - Module 1 Governance, Risk, and Compliance (GRC)
 - Module 2 Data Security
